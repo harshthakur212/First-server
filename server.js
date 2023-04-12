@@ -1,4 +1,6 @@
-const http = require("http");
+const http = require("http");      //Package Import(Just a package name)
+//Storing it in a variable so that we can access it
+
 
 const port = 8081; // local port no
 
