@@ -1,0 +1,16 @@
+{
+  "name": "first-server",
+  "version": "1.0.0",
+  "description": "Creating first server using Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "runThis": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com?harshthakur212/First-server.git"
+  },
+  "author": "Harsh",
+  "license": "ISC"
+}
